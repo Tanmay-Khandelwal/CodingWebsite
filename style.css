@@ -1,0 +1,35 @@
+body{
+    background: rgb(12, 12, 12) ;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    background: cyan;
+    margin-top: 25px;
+}
+p{
+    color: orange;
+    text-align: center;
+    font-size: large;
+}
+a{
+    color:seagreen;
+    font-size: medium;
+    font-weight: bold;
+    font-size: 20px;
+}
+h2{
+    font-weight: bold;
+    color: cyan;
+}
+ol{
+    color: white;
+    font-size: 20px;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+#coding{
+    text-align: center;
+}
